@@ -62,7 +62,7 @@ export default class MarketItem extends Component {
                             <td>{this.state.marketDetails.BID}</td>
                         </tr>
                         <tr>
-                            <td>BID_SIZE</td>
+                            <td>BID SIZE</td>
                             <td>{this.state.marketDetails.BID_SIZE}</td>
                         </tr>
                         <tr>
@@ -70,15 +70,15 @@ export default class MarketItem extends Component {
                             <td>{this.state.marketDetails.ASK}</td>
                         </tr>
                         <tr>
-                            <td>ASK_SIZE</td>
+                            <td>ASK SIZE</td>
                             <td>{this.state.marketDetails.ASK_SIZE}</td>
                         </tr>
                         <tr>
-                            <td>DAILY_CHANGE</td>
+                            <td>DAILY CHANGE</td>
                             <td>{this.state.marketDetails.DAILY_CHANGE}</td>
                         </tr>
                         <tr>
-                            <td>LAST_PRICE</td>
+                            <td>LAST PRICE</td>
                             <td>{this.state.marketDetails.LAST_PRICE}</td>
                         </tr>
                         <tr>
